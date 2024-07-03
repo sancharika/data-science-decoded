@@ -1,4 +1,4 @@
-# Data Science Made Easy
+# Data Science Decoded
 ## Linear Regression
 ### Understanding Relations
 #### Correlations
