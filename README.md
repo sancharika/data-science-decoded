@@ -1,8 +1,8 @@
-# Data Science Made Easy
+# Data Science Decoded
 
 **Tired of ML jargon making your head spin? ‍**
 
-You're not alone! We've all been there, drowning in a sea of complex terms and head-scratching concepts. But fear not, fellow data enthusiast, because this is where **Data Science Made Easy** swoops in to save the day! ‍♀️
+You're not alone! We've all been there, drowning in a sea of complex terms and head-scratching concepts. But fear not, fellow data enthusiast, because this is where **Data Science Decoded** swoops in to save the day! ‍♀️
 
 This project is your one-stop shop for transforming those intimidating ML terms into bite-sized, easy-to-understand nuggets of knowledge.  We'll break down the fundamentals in a way that's both informative and, dare we say, a little bit goofy.  
 
