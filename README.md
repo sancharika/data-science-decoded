@@ -1,4 +1,4 @@
-# Data Science Decoded
+# Data Science Decoded: Data Science Made Easy
 
 **Tired of ML jargon making your head spin? ‍**
 
