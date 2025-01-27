@@ -17,5 +17,5 @@ This project is your one-stop shop for transforming those intimidating ML terms 
 
 **P.S.** Feel free to contribute your own goofy explanations or request topics you'd like to see explained. We're all about learning together!  
 
-[Read More](https://sancharika.github.io/)
+[Read More](https://sancharika.github.io/blogs)
 
